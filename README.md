@@ -1,11 +1,11 @@
-# AppPrivacyPolicy
+h # AppPrivacyPolicy
 privacy policy for Android apps published as phscodes
 
 Updated 2025/12/23.
 
 All apps published to the Google Play Store under the account phscodes, including
 
- - Astronomy Quiz
+ - Earth Quiz
 
  - Food Quiz
 
