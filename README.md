@@ -1,7 +1,7 @@
 # AppPrivacyPolicy
 privacy policy for Android apps published as phscodes
 
-Updated 2025/12/23.
+Updated 2026/01/05.
 
 All apps published to the Google Play Store under the account phscodes, including
 
