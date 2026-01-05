@@ -12,6 +12,10 @@ All apps published to the Google Play Store under the account phscodes, includin
  - Guess The Lyric Quiz
 
  - ChessQuiz
+   
+ - World Flag Quiz
+   
+ - NBA History Quiz
 
 shall use and adhere to the following privacy / data policy:
 
